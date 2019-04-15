@@ -1,4 +1,4 @@
-# Psychology 464/808 example repository
+# Psychology 447/808 example repository
 
 This repository exists to show a few things that can be done with Git and
 GitHub.
